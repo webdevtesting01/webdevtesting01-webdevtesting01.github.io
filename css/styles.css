@@ -114,6 +114,16 @@ h1, .h1 {
 }
 @media (min-width: 1200px) {
   h1, .h1 {
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     font-size: 2.5rem;
   }
 }
@@ -11776,4 +11786,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-align: center;
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+#newsletter {
+  color: white;  
+  opacity: 0.5 
 }
